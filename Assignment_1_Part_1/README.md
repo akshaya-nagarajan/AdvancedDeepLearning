@@ -10,6 +10,7 @@
   - Build the train and test sets. 
   - Embed the dataset with zeroes around the actual image to increase the size of the image.
   - Build Fully Convolutional Network and train the model on preprocessed data.
+  - Get the training and test accuraries, errors.
 
 ### Dataset
   - MNIST data consisting of numbers from 0 - 9 is used from keras Library.
