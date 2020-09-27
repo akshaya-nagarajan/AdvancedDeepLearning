@@ -7,7 +7,7 @@
 ### Dataset
   - Flower Dataset.
 
-### Reuslts:
+### Results:
   - Test Accuracy - SimCLR-v2 : above 84%
   - Test Accuracy - ResNet: 80%
 
