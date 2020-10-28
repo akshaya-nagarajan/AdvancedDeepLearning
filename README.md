@@ -9,3 +9,5 @@
 - State of the Art Augmentations
 ## Assignment 3 
 - Comparison: ResNet and SimCLR V2 - Image Classification
+## Assignment 4
+- Meta Learning and Multi-task Learning
