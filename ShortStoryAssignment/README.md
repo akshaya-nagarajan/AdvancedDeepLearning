@@ -7,6 +7,7 @@ https://github.com/akshaya-nagarajan/AdvancedDeepLearning/blob/master/ShortStory
 #### Medium Article Link:
 https://akshayanagarajan.medium.com/learning-from-few-samples-meta-learning-3b9d0a9ea8c9?sk=97086fd13ce2a2488a4767ee3f9733d5
 #### Video Presentation Link:
+https://github.com/akshaya-nagarajan/AdvancedDeepLearning/blob/master/ShortStoryAssignment/ShortStoryPresentation.mp4
 #### PPT Link:
 https://github.com/akshaya-nagarajan/AdvancedDeepLearning/blob/master/ShortStoryAssignment/MetaLearningPresentation.pptx or
 https://github.com/akshaya-nagarajan/AdvancedDeepLearning/blob/master/ShortStoryAssignment/MetaLearningPresentation.pdf
