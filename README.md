@@ -11,3 +11,5 @@
 - Comparison: ResNet and SimCLR V2 - Image Classification
 ## Assignment 4
 - Meta Learning and Multi-task Learning
+## Assignment 5
+- Text classification with attention and transformer layer
