@@ -1,15 +1,19 @@
 # AdvancedDeepLearning
 
 ## Assignment_1_Part_1 
-- Multi-Instance learning
+- Multi-Instance learning.
 ## Assignment_1_Part_2 
-- Semi-Supervised Learning
+- Semi-Supervised Learning.
 ## Assignment 2 
-- Linear Regression and Logistic Regression using GradientTape in TensorFlow
-- State of the Art Augmentations
+- Linear Regression and Logistic Regression using GradientTape in TensorFlow.
+- State of the Art Augmentations.
 ## Assignment 3 
-- Comparison: ResNet and SimCLR V2 - Image Classification
+- Comparison: ResNet and SimCLR V2 - Image Classification.
 ## Assignment 4
-- Meta Learning and Multi-task Learning
+- Meta Learning and Multi-task Learning.
 ## Assignment 5
-- Text classification with attention and transformer layer
+- Text classification with attention and transformer layer.
+## Assignment 6
+- TFX interactivecontext based colab.
+## Assignment 7
+- Gradient Boost Machine from scratch for Iris data set.
